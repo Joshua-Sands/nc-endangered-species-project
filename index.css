@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#latest_citation .citation_text {
+    margin-top: 5px;
+}
+
+div.header {height:100 px;
+background-color:white }
+
+div.footer {background-color:white;
+margin-top:10px}
+
+body {background-color:#d4574a}
+
+div.main {background-color:white; 
+margin-top:10px;
+border-color:black;
+}
+
+div.left {
+    width: 150px;
+	height: 100%;
+    margin: left;
+    background-image: url(pics/bg1.png);
+	background-repeat: repeat-y}
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}

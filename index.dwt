@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="index.html" />
+</head>
+
+<body>
+<div class="header"><img src="pics/head1.png" width="40%" height="40%" alt="North Carolina's Endangered Animals"/></div>
+<div class="main"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></div>
+<div class="footer">2016</div>
+</body>
+</html>
